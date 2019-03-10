@@ -2,6 +2,10 @@
 	"name": "amazon-assignment-v2",
 	"version": "2.0",
 	"buildTag": "latest",
+	"main": "main.js",
+	"scripts": {
+    "start": "node main.js"
+  },
 	"env": {
 		"INPUT": {"keyword": "iphone"}
 	}
