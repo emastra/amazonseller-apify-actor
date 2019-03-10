@@ -1,0 +1,8 @@
+{
+	"name": "amazon-assignment-v2",
+	"version": "2.0",
+	"buildTag": "latest",
+	"env": {
+		"INPUT": {"keyword": "iphone"}
+	}
+}
